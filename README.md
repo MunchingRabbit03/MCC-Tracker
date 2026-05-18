@@ -158,6 +158,7 @@ class HWTracker.Note {
 }
 
 
+
    edu.miracosta.cs112.models.HealthTracker <|-- WorkoutTracker : extends
    edu.miracosta.cs112.models.HealthTracker <|-- edu.miracosta.cs112.models.DietTracker : extends
 ```
